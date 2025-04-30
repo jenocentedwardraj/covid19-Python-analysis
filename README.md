@@ -1,8 +1,8 @@
-# 🧪 COVID-19 Data Analysis Using Python
+# 🦠 COVID-19 Data Analysis Using Python
 
 This project analyzes New York City COVID-19 daily case counts, hospitalizations, and deaths using Python. Time series analysis techniques are applied to explore trends, detect seasonality, and make short-term forecasts.
 
-## 📂 Files Included
+## 📂 Files
 - `Covid19AnalysisPython.ipynb`: Jupyter notebook with the full Python-based analysis
 - `COVID-19_Daily_Counts_of_Cases__Hospitalizations__and_Deaths_20240929.csv`: NYC COVID-19 dataset used for analysis
 - `.gitignore`: Excludes cache, temp, and environment files
