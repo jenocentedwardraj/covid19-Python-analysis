@@ -6,7 +6,7 @@ This project analyzes New York City COVID-19 daily case counts, hospitalizations
 - `Covid19AnalysisPython.ipynb`: Jupyter notebook with the full Python-based analysis
 - `COVID-19_Daily_Counts_of_Cases__Hospitalizations__and_Deaths_20240929.csv`: NYC COVID-19 dataset used for analysis
 - `.gitignore`: Excludes cache, temp, and environment files
-- `requirements.txt`: Python packages used in the notebook
+- `requirements.txt`: Python packages required to run the notebook
 
 ## 🧠 Key Techniques
 - Time series visualization and decomposition
